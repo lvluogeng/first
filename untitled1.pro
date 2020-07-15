@@ -21,7 +21,8 @@ SOURCES += \
 
 HEADERS += \
         mainwindow.h \
-    mytest.h
+    mytest.h \
+    hhhhh.h
 
 FORMS += \
         mainwindow.ui
